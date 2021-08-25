@@ -1,0 +1,7 @@
+- Discord Bot Developer
+- Python experienced coder
+- Beginner at HTML, CSS, JS and other web-development languages
+- Author of Bobux Bot
+- Highly experienced discord admin/mod
+- Russian
+- Bday 14th April
