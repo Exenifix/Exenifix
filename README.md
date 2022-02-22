@@ -1,7 +1,7 @@
 ## My Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Exenifix&show_icons=true&theme=merko) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exenifix&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exenifix&layout=compact&theme=merko&hide=shaderlab,hlsl)
 
 ## About Me
 
