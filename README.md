@@ -1,9 +1,8 @@
 ## Knowledge Levels
-
 <img src="https://github.com/Exenifix/Exenifix/blob/main/java.png" width=25 height=25> **Java** `Java` - intermediate junior level, enough to create a useful Android app. <br>
 <img src="https://github.com/Exenifix/Exenifix/blob/main/py.png" width=25 height=25> **Python** `Python` - advanced, I would say this is my favourite language and the language I know the most. <br>
 <img src="https://github.com/Exenifix/Exenifix/blob/main/arduino.png" width=25 height=25> **Arduino** `C++` - intermediate, I know how to make some electronic devices using it and maybe GTK apps. <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/500px-Rust_programming_language_black_logo.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width=25 height=25> **Rust** `Rust` - only started recently, but I LOVE this language it's so rusty and the compiler is very nice to me
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" width=25 height=25> **Rust** `Rust` - only started recently, but I LOVE this language it's so rusty and the compiler is very nice to me 😍<br>
 **Web** - familiar with Next.js, Django
 
 ## Projects
