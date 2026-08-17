@@ -24,3 +24,7 @@
 ### C++
 - [arduino-xmas-led](https://github.com/Exenifix/arduino-xmas-led) - christmas RGB light!
 - [arduino-door-access-control](https://github.com/Exenifix/arduino-door-access-control) - made a door magnetic lock but ended up frying my arduino cause I forgot to connect relay
+- [arduino-aquarium-control](https://github.com/Exenifix/arduino-aquarium-control) - aquarium control project with support for IR lights control with RTC time module. There also used to be a servo feeder but my 3d print skills aren't great so it broke lol
+
+### Rust
+- [asciiconverter](https://github.com/Exenifix/asciiconverter-rust) - a processing tool to convert videos/images into series of ascii frames. Supports different charsets and coloring modes
